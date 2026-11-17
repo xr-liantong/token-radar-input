@@ -1,0 +1,1521 @@
+{
+  "as_of": "2026-11-14",
+  "floor_usd": 50000000,
+  "counts": {
+    "protocols": 758,
+    "token_bearing": 416,
+    "no_token": 342,
+    "above_floor_not_on_watchlist": 92,
+    "below_floor_visible_disqualifier": 72,
+    "board_rows": 178
+  },
+  "above_floor": [
+    {
+      "slug": "bybit",
+      "name": "Bybit",
+      "category": "CEX",
+      "tvl_usd": 13824458555,
+      "reasons": [
+        "category:CEX",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "bitfinex",
+      "name": "Bitfinex",
+      "category": "CEX",
+      "tvl_usd": 12570924793,
+      "reasons": [
+        "category:CEX",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "robinhood",
+      "name": "Robinhood",
+      "category": "CEX",
+      "tvl_usd": 12173647267,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "wbtc",
+      "name": "WBTC",
+      "category": "Bridge",
+      "tvl_usd": 7908800359,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "binance-staked-eth",
+      "name": "Binance staked ETH",
+      "category": "Liquid Staking",
+      "tvl_usd": 7448338841,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "coinbase-bridge",
+      "name": "Coinbase Bridge",
+      "category": "Bridge",
+      "tvl_usd": 7230430318,
+      "reasons": [
+        "category:Bridge",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "bitget",
+      "name": "Bitget",
+      "category": "CEX",
+      "tvl_usd": 5514291040,
+      "reasons": [
+        "category:CEX",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "binance-bitcoin",
+      "name": "Binance Bitcoin",
+      "category": "Bridge",
+      "tvl_usd": 4658084203,
+      "reasons": [
+        "category:Bridge",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "gemini",
+      "name": "Gemini",
+      "category": "CEX",
+      "tvl_usd": 4508154485,
+      "reasons": [
+        "category:CEX",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "bitstamp",
+      "name": "Bitstamp",
+      "category": "CEX",
+      "tvl_usd": 3846685048,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "htx",
+      "name": "HTX",
+      "category": "CEX",
+      "tvl_usd": 3748907902,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "usdt0",
+      "name": "USDT0",
+      "category": "Bridge",
+      "tvl_usd": 3571588038,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "deribit",
+      "name": "Deribit",
+      "category": "CEX",
+      "tvl_usd": 3327937264,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "sentora-curator",
+      "name": "Sentora Curator",
+      "category": "Risk Curators",
+      "tvl_usd": 2757585593,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "base-bridge",
+      "name": "Base Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 2739183449,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "kucoin",
+      "name": "KuCoin",
+      "category": "CEX",
+      "tvl_usd": 2385373011,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "crypto-com",
+      "name": "Crypto-com",
+      "category": "CEX",
+      "tvl_usd": 1920527301,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "ccip",
+      "name": "CCIP",
+      "category": "Bridge",
+      "tvl_usd": 1803730474,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "hashkey-exchange",
+      "name": "HashKey Exchange",
+      "category": "CEX",
+      "tvl_usd": 1304101212,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "unit",
+      "name": "Unit",
+      "category": "Bridge",
+      "tvl_usd": 851821074,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "binance-staked-sol",
+      "name": "Binance Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 840458087,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "poloniex",
+      "name": "Poloniex",
+      "category": "CEX",
+      "tvl_usd": 821121567,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "kraken-bitcoin",
+      "name": "Kraken Bitcoin",
+      "category": "Bridge",
+      "tvl_usd": 643200998,
+      "reasons": [
+        "category:Bridge",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "aster-bridge",
+      "name": "Aster Bridge",
+      "category": "Bridge",
+      "tvl_usd": 604647744,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "osl-exchange",
+      "name": "OSL Exchange",
+      "category": "CEX",
+      "tvl_usd": 603794495,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "function-fbtc",
+      "name": "Function FBTC",
+      "category": "Bridge",
+      "tvl_usd": 567461183,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "liquid-collective",
+      "name": "Liquid Collective",
+      "category": "Liquid Staking",
+      "tvl_usd": 545612724,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "bingx",
+      "name": "BingX",
+      "category": "CEX",
+      "tvl_usd": 508290917,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "robinhood-chain-bridge",
+      "name": "Robinhood Chain Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 499624376,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "indodax",
+      "name": "Indodax",
+      "category": "CEX",
+      "tvl_usd": 440186252,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "korbit",
+      "name": "Korbit",
+      "category": "CEX",
+      "tvl_usd": 434884665,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "coinbase-wrapped-staked-eth",
+      "name": "Coinbase Wrapped Staked ETH",
+      "category": "Liquid Staking",
+      "tvl_usd": 383245462,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "rocketswap-anubis-v2",
+      "name": "RocketSwap Anubis V2",
+      "category": "Dexs",
+      "tvl_usd": 350253227,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "bitvavo",
+      "name": "Bitvavo",
+      "category": "CEX",
+      "tvl_usd": 326551262,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "polymarket-international",
+      "name": "Polymarket International",
+      "category": "Prediction Market",
+      "tvl_usd": 320193439,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "forward-industries-sol",
+      "name": "Forward Industries SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 312905588,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "cian-yield-layer",
+      "name": "CIAN Yield Layer",
+      "category": "Yield Aggregator",
+      "tvl_usd": 280281384,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "defi-saver-asset-management",
+      "name": "Defi Saver Asset Management",
+      "category": "CDP Manager",
+      "tvl_usd": 276366296,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "bitunix",
+      "name": "Bitunix",
+      "category": "CEX",
+      "tvl_usd": 262067854,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "world-chain-bridge",
+      "name": "World Chain Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 261654428,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "gtbtc",
+      "name": "GTBTC",
+      "category": "Restaked BTC",
+      "tvl_usd": 235254688,
+      "reasons": [
+        "category:Restaked BTC"
+      ]
+    },
+    {
+      "slug": "mellow-core",
+      "name": "Mellow Core",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 232572763,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "nexus-btc",
+      "name": "Nexus BTC",
+      "category": "Bridge",
+      "tvl_usd": 226481013,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "bitfi-basis",
+      "name": "BitFi Basis",
+      "category": "Basis Trading",
+      "tvl_usd": 214934379,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "linea-bridge",
+      "name": "Linea Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 190678840,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "figure-markets-prime",
+      "name": "Figure Markets Prime",
+      "category": "Lending",
+      "tvl_usd": 190506995,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "dfdv-staked-sol",
+      "name": "DFDV Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 170420388,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "stacks-sbtc",
+      "name": "Stacks sBTC",
+      "category": "Bridge",
+      "tvl_usd": 168592297,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "aera-v3",
+      "name": "Aera V3",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 164751329,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "sthype",
+      "name": "stHYPE",
+      "category": "Liquid Staking",
+      "tvl_usd": 162909230,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "tonstakers-lsd",
+      "name": "Tonstakers LSD",
+      "category": "Liquid Staking",
+      "tvl_usd": 162237575,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "fassets",
+      "name": "FAssets",
+      "category": "Bridge",
+      "tvl_usd": 156600598,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "coindcx",
+      "name": "CoinDCX",
+      "category": "CEX",
+      "tvl_usd": 144889104,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "exsat-staking-btc",
+      "name": "exSat Staking BTC",
+      "category": "Bridge",
+      "tvl_usd": 143045410,
+      "reasons": [
+        "category:Bridge",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "theo-network-thusd",
+      "name": "Theo Network thUSD",
+      "category": "RWA",
+      "tvl_usd": 138588449,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "figure-markets-exchange",
+      "name": "Figure Markets Exchange",
+      "category": "OTC Marketplace",
+      "tvl_usd": 131265792,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "phantom-sol",
+      "name": "Phantom SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 127520855,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "bybit-staked-sol",
+      "name": "Bybit Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 110201674,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "pionex",
+      "name": "Pionex",
+      "category": "CEX",
+      "tvl_usd": 104484412,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "bitrue",
+      "name": "Bitrue",
+      "category": "CEX",
+      "tvl_usd": 104131385,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "jpool",
+      "name": "JPool",
+      "category": "Liquid Staking",
+      "tvl_usd": 99134763,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "ourbit",
+      "name": "Ourbit",
+      "category": "CEX",
+      "tvl_usd": 98527523,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "bitget-bgbtc",
+      "name": "Bitget bgBTC",
+      "category": "Bridge",
+      "tvl_usd": 96457044,
+      "reasons": [
+        "category:Bridge",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "extended-perps",
+      "name": "Extended Perps",
+      "category": "Derivatives",
+      "tvl_usd": 96412875,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "avant-avusd",
+      "name": "Avant avUSD",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 94636180,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "zksync-era-txbridge",
+      "name": "zkSync Era txBridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 94016527,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "valr",
+      "name": "VALR",
+      "category": "CEX",
+      "tvl_usd": 85706223,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "phase-delegation",
+      "name": "Phase Delegation",
+      "category": "Liquid Staking",
+      "tvl_usd": 85562471,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "helius-staked-sol",
+      "name": "Helius Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 84499668,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "stellar-defi-hub",
+      "name": "Stellar DeFi Hub",
+      "category": "Farm",
+      "tvl_usd": 83161634,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "popdex-bridge",
+      "name": "Popdex Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 82662157,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "rsk-bridge",
+      "name": "RSK Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 76857455,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "blofin",
+      "name": "BloFin",
+      "category": "CEX",
+      "tvl_usd": 72067498,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "loopscale-lending",
+      "name": "Loopscale Lending",
+      "category": "Lending",
+      "tvl_usd": 70960213,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "ipor-fusion",
+      "name": "IPOR Fusion",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 68250116,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "stackingdao",
+      "name": "StackingDAO",
+      "category": "Liquid Staking",
+      "tvl_usd": 68128093,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "circle-gateway",
+      "name": "Circle Gateway",
+      "category": "Cross Chain Bridge",
+      "tvl_usd": 65310531,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "solvbtc-lsts",
+      "name": "SolvBTC LSTs",
+      "category": "Restaked BTC",
+      "tvl_usd": 64174362,
+      "reasons": [
+        "category:Restaked BTC"
+      ]
+    },
+    {
+      "slug": "rhea-lst",
+      "name": "RHEA LST",
+      "category": "Liquid Staking",
+      "tvl_usd": 64072910,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "toobit",
+      "name": "Toobit",
+      "category": "CEX",
+      "tvl_usd": 60844288,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "jagpool-staked-sol",
+      "name": "JagPool Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 60607988,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "arcus-perps",
+      "name": "Arcus Perps",
+      "category": "Derivatives",
+      "tvl_usd": 60151458,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "bydfi",
+      "name": "BYDFi",
+      "category": "CEX",
+      "tvl_usd": 59939371,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "usdcx",
+      "name": "USDCx",
+      "category": "Stablecoin Wrapper",
+      "tvl_usd": 56626077,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "solv-strategies",
+      "name": "Solv Strategies",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 56603770,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "sonic-gateway",
+      "name": "Sonic Gateway",
+      "category": "Canonical Bridge",
+      "tvl_usd": 54225913,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "springsui",
+      "name": "SpringSui",
+      "category": "Liquid Staking",
+      "tvl_usd": 52870670,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "gate-sol",
+      "name": "Gate SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 52157489,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "azverse-perps",
+      "name": "AZverse Perps",
+      "category": "Derivatives",
+      "tvl_usd": 51982966,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "nado-spot",
+      "name": "Nado Spot",
+      "category": "Dexs",
+      "tvl_usd": 51104757,
+      "reasons": [
+        "not-on-house-watchlist (parentProtocol or another house rule; parentProtocol is not in the snapshot)"
+      ]
+    },
+    {
+      "slug": "okx-xbtc",
+      "name": "OKX xBTC",
+      "category": "Bridge",
+      "tvl_usd": 50901739,
+      "reasons": [
+        "category:Bridge",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "coinstore",
+      "name": "Coinstore",
+      "category": "CEX",
+      "tvl_usd": 50230704,
+      "reasons": [
+        "category:CEX"
+      ]
+    }
+  ],
+  "below_floor": [
+    {
+      "slug": "txflow-bridge",
+      "name": "TxFlow Bridge",
+      "category": "Bridge",
+      "tvl_usd": 46958993,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "starknet-btc-staking",
+      "name": "Starknet BTC Staking",
+      "category": "Staking Pool",
+      "tvl_usd": 46615368,
+      "reasons": [
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "bigone",
+      "name": "BigONE",
+      "category": "CEX",
+      "tvl_usd": 46299338,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "zircuit-staking",
+      "name": "Zircuit Staking",
+      "category": "Farm",
+      "tvl_usd": 44375067,
+      "reasons": [
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "ink-bridge",
+      "name": "Ink Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 44348098,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "coin8",
+      "name": "Coin8",
+      "category": "CEX",
+      "tvl_usd": 43598429,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "zoomex",
+      "name": "Zoomex",
+      "category": "CEX",
+      "tvl_usd": 43462874,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "stkesol-by-sol-strategies",
+      "name": "STKESOL by SOL Strategies",
+      "category": "Liquid Staking",
+      "tvl_usd": 42064631,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "niza",
+      "name": "Niza",
+      "category": "CEX",
+      "tvl_usd": 41818593,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "pulsechain-bridge",
+      "name": "PulseChain Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 41070024,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "aera-v2",
+      "name": "Aera V2",
+      "category": "Onchain Capital Allocator",
+      "tvl_usd": 40478203,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "polygon-zkevm-bridge",
+      "name": "Polygon zkEVM Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 40060788,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "orangex",
+      "name": "OrangeX",
+      "category": "CEX",
+      "tvl_usd": 37991385,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "byte-exchange",
+      "name": "Byte Exchange",
+      "category": "CEX",
+      "tvl_usd": 34064718,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "bitget-sol",
+      "name": "Bitget SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 33224299,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:exchange-prefix"
+      ]
+    },
+    {
+      "slug": "mantle-restaking",
+      "name": "Mantle Restaking",
+      "category": "Liquid Restaking",
+      "tvl_usd": 30980107,
+      "reasons": [
+        "category:Liquid Restaking"
+      ]
+    },
+    {
+      "slug": "bdex-v3",
+      "name": "BDEX V3",
+      "category": "Dexs",
+      "tvl_usd": 30543993,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "rysk-v12",
+      "name": "Rysk V12",
+      "category": "Options Vault",
+      "tvl_usd": 28456225,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "nodedao",
+      "name": "NodeDAO",
+      "category": "Liquid Staking",
+      "tvl_usd": 27596683,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "scroll-bridge",
+      "name": "Scroll Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 27186001,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "suibridge",
+      "name": "SuiBridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 26744091,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "chiliz-governance-staking",
+      "name": "Chiliz Governance Staking",
+      "category": "Chain",
+      "tvl_usd": 25528101,
+      "reasons": [
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "wtao",
+      "name": "wTAO",
+      "category": "Bridge",
+      "tvl_usd": 25298588,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "metric-v1",
+      "name": "Metric V1",
+      "category": "Dexs",
+      "tvl_usd": 24619534,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "ring-few",
+      "name": "Ring Few",
+      "category": "Bridge",
+      "tvl_usd": 24615549,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "pacifica-bridge",
+      "name": "Pacifica Bridge",
+      "category": "Bridge",
+      "tvl_usd": 24557221,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "definity-staked-sol",
+      "name": "Definity Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 24453416,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "bucket-protocol-v2",
+      "name": "Bucket Protocol V2",
+      "category": "CDP",
+      "tvl_usd": 24102761,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "obeliskbtc",
+      "name": "ObeliskBTC",
+      "category": "Bridge",
+      "tvl_usd": 23654248,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "crypto.com-liquid-staking",
+      "name": "Crypto.com Liquid Staking",
+      "category": "Liquid Staking",
+      "tvl_usd": 23614593,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "stakee",
+      "name": "Stakee",
+      "category": "Liquid Staking",
+      "tvl_usd": 22926580,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "okcoin",
+      "name": "Okcoin",
+      "category": "CEX",
+      "tvl_usd": 21070991,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "japan-staked-sol",
+      "name": "Japan Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 19655590,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "mellow-restaking",
+      "name": "Mellow Restaking",
+      "category": "Liquid Restaking",
+      "tvl_usd": 19109266,
+      "reasons": [
+        "category:Liquid Restaking"
+      ]
+    },
+    {
+      "slug": "wrapped",
+      "name": "Wrapped",
+      "category": "Bridge",
+      "tvl_usd": 18094141,
+      "reasons": [
+        "category:Bridge",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "hibt",
+      "name": "Hibt",
+      "category": "CEX",
+      "tvl_usd": 17938402,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "circle-bitcoin",
+      "name": "Circle Bitcoin",
+      "category": "Bridge",
+      "tvl_usd": 17202268,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "catfee-staking-vault",
+      "name": "CatFee Staking Vault",
+      "category": "Staking Pool",
+      "tvl_usd": 16393978,
+      "reasons": [
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "bitvenus",
+      "name": "BitVenus",
+      "category": "CEX",
+      "tvl_usd": 16150696,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "hylo-lsts",
+      "name": "Hylo LSTs",
+      "category": "Liquid Staking",
+      "tvl_usd": 15528891,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "raiku-staked-sol",
+      "name": "Raiku Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 14028032,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "sx-rollup-bridge",
+      "name": "SX Rollup Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 13735209,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    },
+    {
+      "slug": "morph-bridge",
+      "name": "Morph Bridge",
+      "category": "Bridge",
+      "tvl_usd": 12273756,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "wemix.fi-staking",
+      "name": "WEMIX.FI Staking",
+      "category": "Staking Pool",
+      "tvl_usd": 11332836,
+      "reasons": [
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "hyperbeat-lst",
+      "name": "Hyperbeat LST",
+      "category": "Liquid Staking",
+      "tvl_usd": 11146025,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "hubra-staked-sol",
+      "name": "Hubra Staked SOL",
+      "category": "Liquid Staking",
+      "tvl_usd": 10603343,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "sceptre-liquid",
+      "name": "Sceptre Liquid",
+      "category": "Liquid Staking",
+      "tvl_usd": 10334007,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "hotcoin",
+      "name": "Hotcoin",
+      "category": "CEX",
+      "tvl_usd": 9645466,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "bitlo",
+      "name": "Bitlo",
+      "category": "CEX",
+      "tvl_usd": 9592784,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "echo-bridge",
+      "name": "Echo Bridge",
+      "category": "Bridge",
+      "tvl_usd": 8932407,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "privacy-pools-v1",
+      "name": "Privacy Pools V1",
+      "category": "Privacy",
+      "tvl_usd": 8517742,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "hashkey-global",
+      "name": "HashKey Global",
+      "category": "CEX",
+      "tvl_usd": 8375779,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "tzbtc",
+      "name": "tzBTC",
+      "category": "Bridge",
+      "tvl_usd": 8205783,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "endur",
+      "name": "Endur",
+      "category": "Liquid Staking",
+      "tvl_usd": 8170889,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "bulbaswap-v3",
+      "name": "BulbaSwap V3",
+      "category": "Dexs",
+      "tvl_usd": 7919991,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "citrea-bridge",
+      "name": "Citrea Bridge",
+      "category": "Bridge",
+      "tvl_usd": 7585063,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "exinpool",
+      "name": "ExinPool",
+      "category": "Liquid Staking",
+      "tvl_usd": 7489041,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "lbank",
+      "name": "LBank",
+      "category": "CEX",
+      "tvl_usd": 7216056,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "levex",
+      "name": "LeveX",
+      "category": "CEX",
+      "tvl_usd": 7147183,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "marginfi-lst",
+      "name": "marginfi LST",
+      "category": "Liquid Staking",
+      "tvl_usd": 7053651,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "prime-staking",
+      "name": "Prime Staking",
+      "category": "Liquid Staking",
+      "tvl_usd": 6911175,
+      "reasons": [
+        "category:Liquid Staking",
+        "name:wrapped-or-staked-word"
+      ]
+    },
+    {
+      "slug": "potatoswap-v2",
+      "name": "PotatoSwap V2",
+      "category": "Dexs",
+      "tvl_usd": 6802013,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "kton",
+      "name": "KTON",
+      "category": "Liquid Staking",
+      "tvl_usd": 6728325,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "nbx",
+      "name": "NBX",
+      "category": "CEX",
+      "tvl_usd": 6641582,
+      "reasons": [
+        "category:CEX"
+      ]
+    },
+    {
+      "slug": "royco-v2",
+      "name": "Royco V2",
+      "category": "Yield",
+      "tvl_usd": 6436246,
+      "reasons": [
+        "name:version-marker"
+      ]
+    },
+    {
+      "slug": "valdora-finance",
+      "name": "Valdora Finance",
+      "category": "Liquid Staking",
+      "tvl_usd": 6208480,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "shmonad",
+      "name": "ShMonad",
+      "category": "Liquid Staking",
+      "tvl_usd": 5875911,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "endurance-bridge",
+      "name": "Endurance Bridge",
+      "category": "Bridge",
+      "tvl_usd": 5816749,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "biquid",
+      "name": "Biquid",
+      "category": "Liquid Staking",
+      "tvl_usd": 5743699,
+      "reasons": [
+        "category:Liquid Staking"
+      ]
+    },
+    {
+      "slug": "inceptionlrt-(isolated-restaking)",
+      "name": "InceptionLRT (Isolated Restaking)",
+      "category": "Liquid Restaking",
+      "tvl_usd": 5352149,
+      "reasons": [
+        "category:Liquid Restaking"
+      ]
+    },
+    {
+      "slug": "wan-bridge",
+      "name": "Wan Bridge",
+      "category": "Bridge",
+      "tvl_usd": 5193861,
+      "reasons": [
+        "category:Bridge"
+      ]
+    },
+    {
+      "slug": "sophon-bridge",
+      "name": "Sophon Bridge",
+      "category": "Canonical Bridge",
+      "tvl_usd": 5166379,
+      "reasons": [
+        "category:Canonical Bridge"
+      ]
+    }
+  ]
+}
